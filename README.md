@@ -1,4 +1,4 @@
-```markdown
+
 # Flutter Project
 
 ## Flutter sdk version
@@ -68,7 +68,7 @@ Ensure you have Flutter installed on your system. For installation instructions,
 Clone this repository using the following command:
 
 ```sh
-git clone <repository_url>
+git clone https://github.com/CrestDev01/Flutter/tree/main
 ```
 
 ### Installing Dependencies
@@ -142,6 +142,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc.
-```
 
-Replace `<repository_url>` with the actual URL of your repository.
+
